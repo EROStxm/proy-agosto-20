@@ -1,0 +1,11 @@
+*{
+    margin: 50px;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: rgb(162, 162, 162);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
